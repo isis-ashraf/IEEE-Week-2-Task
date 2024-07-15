@@ -4,7 +4,7 @@ import styles from './Details.module.css'
 import { useDispatch, useSelector } from "react-redux";
 import { addProduct } from "../redux/store";
 
-const Details =()=>{
+const Details =()=>{ 
     const location = useLocation();
     const{product} = location.state || {};
     const dispatch = useDispatch();
