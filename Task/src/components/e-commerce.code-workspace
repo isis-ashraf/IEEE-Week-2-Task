@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../e-commerce"
+		},
+		{
+			"path": "../../../movies"
+		},
+		{
+			"path": "C:/Users/Isisa/my-app"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "task1"
+	}
+}
